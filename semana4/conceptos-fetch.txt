@@ -1,18 +1,20 @@
 Conceptos básicos de fetch – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: leider david ramos caro
+Fecha:10 mayo de 2026
+Nombre de la rama:leider_ramos
 
 Responde con tus propias palabras.
 
 1. ¿Qué es fetch?
 
-Respuesta:
+Respuesta: es como pedir comida a domicilio por teléfono:
+tu haces la llamda(la petición) y esperas que te traigan la respuesta (los datos).
 
 2. ¿Para qué sirve fetch en una página web?
 
-Respuesta:
+Respuesta:sirve para: que el programa de node.js, se comunique con otros servidores de internet para obtener o enviar información, como el clima,precios de criptomonedas o datos de usuarios.
+
 
 3. ¿Qué significa que el cliente consulte información al servidor?
 
@@ -20,28 +22,28 @@ Respuesta:
 
 4. ¿Qué ruta se usa para consultar la campaña?
 
-Respuesta:
+Respuesta:http/localhost/campania
 
 5. ¿Qué ruta se usa para consultar avisos?
 
-Respuesta:
+Respuesta:http/localhost/avisos
 
 6. ¿Qué ruta se usa para enviar propuestas?
 
-Respuesta:
+Respuesta:http/localhost/propuestas
 
 7. ¿Qué método se usa para consultar información?
 
-Respuesta:
+Respuesta:GET
 
 8. ¿Qué método se usa para enviar información?
 
-Respuesta:
+Respuesta:POST
 
 9. ¿Qué hace await en esta práctica?
 
-Respuesta:
+Respuesta:ESPERAR CUANDO EL SERVIDOR RESPONDE
 
 10. ¿Cómo ayuda fetch a construir una plataforma comunitaria?
 
-Respuesta:
+Respuesta:fetch() ayuda a construir una plataforma comunitaria porque permite conectar la página web con un servidor en tiempo real.

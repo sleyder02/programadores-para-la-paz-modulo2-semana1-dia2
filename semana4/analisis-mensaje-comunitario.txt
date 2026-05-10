@@ -1,8 +1,8 @@
 Análisis de mensaje comunitario – Módulo 2 Semana 1 Día 2
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Leider David Ramos Caro
+Fecha:10/5/2026
+Nombre de la rama:leider_ramos
 
 Lee el aviso mostrado por el servidor y responde.
 
